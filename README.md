@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://github.com/WildCLown">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WildCLown&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildCLown&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WildCLown&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildCLown&layout=compact&langs_count=7&theme=algolia"/>
+  </a>
 </div>
 <div style="display: inline_block" align="center" alt="Non-Badged"><br>
   <kbd>
