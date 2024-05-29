@@ -1,16 +1,17 @@
+# Welcome my dear friend
+## I'm Gabriel Teixeira, my gaming name is "WildClown", which I use for almost everything...
+
+<h3>
+  I keep my <a href="https://www.linkedin.com/in/gabrielteixeirasoares/">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a> updated, so check it for a full professional profile
+</h3>
+
 <div align="center">
-  <a href="https://github.com/WildCLown">
+  <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WildCLown&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildCLown&layout=compact&langs_count=7&theme=algolia"/>
-  </a>
-</div>
-<div style="display: inline_block" align="center" alt="Non-Badged"><br>
-  <kbd>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </kbd>
-  <kbd>
-    <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  </kbd>
+  </p>
 </div>
 <div style="display: inline_block" align="center"><br>
   <a href="https://twitch.tv/wildclownbr">
