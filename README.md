@@ -5,7 +5,7 @@ Been able to challenge myself, doing Hackatons, competitive programming process 
 
 My most liked languege is Javascript, which I use for in Leetcode challenges
 
-You can check more about me in [Here](https://wildclown.github.io/portifolio/
+You can check more about me in [Here](https://wildclown.github.io/portifolio/)
 
 Also, I'm more used to update my [LinkedIn](https://www.linkedin.com/in/gabrielteixeirasoares/), so take a look, send me a 'hallo'! ^~^
 
