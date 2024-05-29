@@ -1,11 +1,13 @@
-# Welcome my dear friend
-## I'm Gabriel Teixeira, my gaming name is "WildClown", which I use for almost everything...
+# Gabriel Teixeira Soares de Almeida
 
-<h3>
-  I keep my <a href="https://www.linkedin.com/in/gabrielteixeirasoares/">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a> updated, so check it for a full professional profile
-</h3>
+Hello my dear friend, I'm a technology passionate and ended up in a Balcheor CS college... Well, luckly I liked it!
+Been able to challenge myself, doing Hackatons, competitive programming process and more
+
+My most liked languege is Javascript, which I use for in Leetcode challenges
+
+You can check more about me in [Here](https://wildclown.github.io/portifolio/
+
+Also, I'm more used to update my [LinkedIn](https://www.linkedin.com/in/gabrielteixeirasoares/), so take a look, send me a 'hallo'! ^~^
 
 <div align="center">
   <p>
